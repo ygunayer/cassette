@@ -1,0 +1,11 @@
+{
+  "name": "cassette",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yalin Gunayer <yalin.gunayer@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "config": "1.30.0",
+    "request": "2.83.0"
+  }
+}

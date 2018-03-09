@@ -1,0 +1,7 @@
+{
+    "bufferSize": "BUFFER_SIZE",
+    "slack": {
+        "host": "SLACK_HOST",
+        "token": "SLACK_TOKEN"
+    }
+}
